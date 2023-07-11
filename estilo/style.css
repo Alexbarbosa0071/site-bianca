@@ -62,12 +62,6 @@ form h3 {
     height: auto;
 }
 
-.section .container-form .map {
-    width: 100%;
-    flex: 1.45rem;
-    object-fit: cover;
-}
-
 .inputform {
     display: flex;
     align-items: center;
@@ -85,4 +79,26 @@ form h3 {
 .inputform span {
     font-size: 1.5rem;
     color: black;
+}
+
+img {
+    padding: 20px;
+}
+
+source select{
+    margin: 20px;
+    padding-right: 10px;
+}
+
+h2 {
+   margin: 50px;
+}
+
+h3 {
+    margin: 50px;
+}
+
+button {
+    margin:  10px;
+    padding-right: 20px;
 }
