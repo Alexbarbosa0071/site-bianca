@@ -15,12 +15,6 @@
 h1 {
     text-align: center;
 }
-nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    
-}
 
 ul li {
     display: inline-block;
