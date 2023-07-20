@@ -12,7 +12,7 @@
 body {
     background-color: lavenderblush;
     text-align: center;
-    background-image: linear-gradient(to right, rgb(250, 220, 244), rgb(255, 208, 245), rgba(245, 174, 239, 0.856));
+    background-image: linear-gradient(to right, rgb(250, 220, 244), rgb(255, 208, 245));
 }
 
 div a {
@@ -44,7 +44,7 @@ h1, h2, h3 {
 }
 
 div video {
-    padding: 200px;
     margin: auto;
+    padding: 100px;
 }
 
