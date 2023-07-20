@@ -4,10 +4,21 @@
 
 
 * {
-    margin: 0;
+    margin: auto;
     padding: 0;
     text-align: center;
 }
+
+body {
+    background-color: lavenderblush;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(250, 220, 244), rgb(255, 208, 245), rgba(245, 174, 239, 0.856));
+}
+
+div a {
+    
+}
+
 
 ul li {
     display: inline-block;
@@ -26,10 +37,14 @@ div ul li a {
 .section {
     padding: 0 10rem 0 10rem;
 }
-body {
-    background-color: lavenderblush;
-}
+
 h1, h2, h3 {
     font-family: 'Fredericka the Great', cursive, sans-serif;
     font-weight: lighter;
 }
+
+div video {
+    padding: 200px;
+    margin: auto;
+}
+
